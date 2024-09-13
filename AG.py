@@ -1,3 +1,8 @@
+# Algoritmo Geneético para resolver partição de dados
+# Pedro Israel da Rocha Smith 221022511
+# Guilherme ferreira Gonçalves 221020561
+
+
 import random
 from deap import base, creator, tools
 
