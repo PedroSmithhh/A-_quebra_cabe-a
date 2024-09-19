@@ -1,3 +1,8 @@
+# Algoritmo Geneético para resolver caixeiro viajante
+# Pedro Israel da Rocha Smith 221022511
+# Guilherme ferreira Gonçalves 221020561
+
+
 import numpy as np
 import random
 import matplotlib.pyplot as plt
